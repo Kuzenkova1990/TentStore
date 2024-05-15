@@ -1,0 +1,36 @@
+h2 {
+  font-weight: bold;
+  margin: 2rem;
+  text-transform: uppercase;
+}
+
+form {
+  margin-bottom: 4rem;
+  background-color: #7fffd4;
+  color: rgb(4, 13, 20);
+  border: 1px solid rgb(1, 39, 1);
+  border-radius: 10px;
+  width: 40rem;
+}
+
+input {
+  width: 200px;
+  height: 30px;
+  margin: 1rem;
+  background-color: aliceblue;
+  border-radius: 7px;
+}
+
+button {
+  background-color: #11ac78;
+  border: 1px solid rgb(1, 39, 1);
+  border-radius: 5px;
+  padding: 0.5rem;
+  margin-top: 1rem;
+  color: #b2f8e1;
+}
+
+button:hover {
+  background-color: #b2f8e1;
+  color: rgb(1, 39, 1);
+}
